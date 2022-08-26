@@ -1,2 +1,3 @@
-# Rademenes16.github.io
 WAVE -  Coronavirus statistics
+
+# No longer hosted on github pages!
